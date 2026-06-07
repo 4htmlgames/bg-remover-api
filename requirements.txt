@@ -1,4 +1,6 @@
 flask
-rembg[cpu]
-pillow
 gunicorn
+onnxruntime
+numpy
+pillow
+transparent-background
